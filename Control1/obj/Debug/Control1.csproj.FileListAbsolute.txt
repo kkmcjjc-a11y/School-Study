@@ -1,0 +1,10 @@
+C:\Users\메카트로닉스\Desktop\Winform\Control1\bin\Debug\Control1.exe.config
+C:\Users\메카트로닉스\Desktop\Winform\Control1\bin\Debug\Control1.exe
+C:\Users\메카트로닉스\Desktop\Winform\Control1\bin\Debug\Control1.pdb
+C:\Users\메카트로닉스\Desktop\Winform\Control1\obj\Debug\Control1.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\Desktop\Winform\Control1\obj\Debug\Control1.Form1.resources
+C:\Users\메카트로닉스\Desktop\Winform\Control1\obj\Debug\Control1.Properties.Resources.resources
+C:\Users\메카트로닉스\Desktop\Winform\Control1\obj\Debug\Control1.csproj.GenerateResource.cache
+C:\Users\메카트로닉스\Desktop\Winform\Control1\obj\Debug\Control1.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\Desktop\Winform\Control1\obj\Debug\Control1.exe
+C:\Users\메카트로닉스\Desktop\Winform\Control1\obj\Debug\Control1.pdb

@@ -1,0 +1,13 @@
+C:\Users\메카트로닉스\Desktop\Antigravity\Winform\MES\obj\Debug\MES.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\Desktop\Antigravity\Winform\MES\bin\Debug\MES.exe.config
+C:\Users\메카트로닉스\Desktop\Antigravity\Winform\MES\bin\Debug\MES.exe
+C:\Users\메카트로닉스\Desktop\Antigravity\Winform\MES\bin\Debug\MES.pdb
+C:\Users\메카트로닉스\Desktop\Antigravity\Winform\MES\obj\Debug\MES.Form1.resources
+C:\Users\메카트로닉스\Desktop\Antigravity\Winform\MES\obj\Debug\MES.Properties.Resources.resources
+C:\Users\메카트로닉스\Desktop\Antigravity\Winform\MES\obj\Debug\MES.csproj.GenerateResource.cache
+C:\Users\메카트로닉스\Desktop\Antigravity\Winform\MES\obj\Debug\MES.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\Desktop\Antigravity\Winform\MES\obj\Debug\MES.exe
+C:\Users\메카트로닉스\Desktop\Antigravity\Winform\MES\obj\Debug\MES.pdb
+C:\Users\메카트로닉스\Desktop\Antigravity\Winform\MES\obj\Debug\MES.ProductionControl.resources
+C:\Users\메카트로닉스\Desktop\Antigravity\Winform\MES\obj\Debug\MES.QualityControl.resources
+C:\Users\메카트로닉스\Desktop\Antigravity\Winform\MES\obj\Debug\MES.exe.config
