@@ -1,0 +1,11 @@
+C:\Users\메카트로닉스\Desktop\Winform\variable\obj\Debug\variable.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\Desktop\Winform\variable\obj\Debug\variable.Form1.resources
+C:\Users\메카트로닉스\Desktop\Winform\variable\obj\Debug\Variable.Properties.Resources.resources
+C:\Users\메카트로닉스\Desktop\Winform\variable\obj\Debug\variable.csproj.GenerateResource.cache
+C:\Users\메카트로닉스\Desktop\Winform\variable\obj\Debug\variable.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\Desktop\Winform\variable\bin\Debug\Variable.exe.config
+C:\Users\메카트로닉스\Desktop\Winform\variable\bin\Debug\Variable.exe
+C:\Users\메카트로닉스\Desktop\Winform\variable\bin\Debug\Variable.pdb
+C:\Users\메카트로닉스\Desktop\Winform\variable\obj\Debug\Variable.exe
+C:\Users\메카트로닉스\Desktop\Winform\variable\obj\Debug\Variable.pdb
+C:\Users\메카트로닉스\Desktop\Winform\variable\obj\Debug\Variable.exe.config
