@@ -1,0 +1,11 @@
+C:\Users\메카트로닉스\Desktop\Winform\Test2\bin\Debug\Test2.exe.config
+C:\Users\메카트로닉스\Desktop\Winform\Test2\bin\Debug\Test2.exe
+C:\Users\메카트로닉스\Desktop\Winform\Test2\bin\Debug\Test2.pdb
+C:\Users\메카트로닉스\Desktop\Winform\Test2\obj\Debug\Test2.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\Desktop\Winform\Test2\obj\Debug\Test2.Form1.resources
+C:\Users\메카트로닉스\Desktop\Winform\Test2\obj\Debug\Test2.Properties.Resources.resources
+C:\Users\메카트로닉스\Desktop\Winform\Test2\obj\Debug\Test2.csproj.GenerateResource.cache
+C:\Users\메카트로닉스\Desktop\Winform\Test2\obj\Debug\Test2.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\Desktop\Winform\Test2\obj\Debug\Test2.exe
+C:\Users\메카트로닉스\Desktop\Winform\Test2\obj\Debug\Test2.pdb
+C:\Users\메카트로닉스\Desktop\Winform\Test2\obj\Debug\Test2.exe.config
