@@ -1,0 +1,11 @@
+C:\Users\메카트로닉스\Desktop\Winform\Method\bin\Debug\Method.exe.config
+C:\Users\메카트로닉스\Desktop\Winform\Method\bin\Debug\Method.exe
+C:\Users\메카트로닉스\Desktop\Winform\Method\bin\Debug\Method.pdb
+C:\Users\메카트로닉스\Desktop\Winform\Method\obj\Debug\Method.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\Desktop\Winform\Method\obj\Debug\Method.Form1.resources
+C:\Users\메카트로닉스\Desktop\Winform\Method\obj\Debug\Method.Properties.Resources.resources
+C:\Users\메카트로닉스\Desktop\Winform\Method\obj\Debug\Method.csproj.GenerateResource.cache
+C:\Users\메카트로닉스\Desktop\Winform\Method\obj\Debug\Method.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\Desktop\Winform\Method\obj\Debug\Method.exe
+C:\Users\메카트로닉스\Desktop\Winform\Method\obj\Debug\Method.pdb
+C:\Users\메카트로닉스\Desktop\Winform\Method\obj\Debug\Method.exe.config

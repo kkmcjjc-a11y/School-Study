@@ -1,0 +1,11 @@
+C:\Users\메카트로닉스\Desktop\Winform\Poly\bin\Debug\Poly.exe.config
+C:\Users\메카트로닉스\Desktop\Winform\Poly\bin\Debug\Poly.exe
+C:\Users\메카트로닉스\Desktop\Winform\Poly\bin\Debug\Poly.pdb
+C:\Users\메카트로닉스\Desktop\Winform\Poly\obj\Debug\Poly.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\Desktop\Winform\Poly\obj\Debug\Poly.Form1.resources
+C:\Users\메카트로닉스\Desktop\Winform\Poly\obj\Debug\Poly.Properties.Resources.resources
+C:\Users\메카트로닉스\Desktop\Winform\Poly\obj\Debug\Poly.csproj.GenerateResource.cache
+C:\Users\메카트로닉스\Desktop\Winform\Poly\obj\Debug\Poly.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\Desktop\Winform\Poly\obj\Debug\Poly.exe
+C:\Users\메카트로닉스\Desktop\Winform\Poly\obj\Debug\Poly.pdb
+C:\Users\메카트로닉스\Desktop\Winform\Poly\obj\Debug\Poly.exe.config

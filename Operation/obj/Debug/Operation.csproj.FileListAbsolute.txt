@@ -1,0 +1,11 @@
+C:\Users\메카트로닉스\Desktop\Winform\Operation\bin\Debug\Operation.exe.config
+C:\Users\메카트로닉스\Desktop\Winform\Operation\bin\Debug\Operation.exe
+C:\Users\메카트로닉스\Desktop\Winform\Operation\bin\Debug\Operation.pdb
+C:\Users\메카트로닉스\Desktop\Winform\Operation\obj\Debug\Operation.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\Desktop\Winform\Operation\obj\Debug\Operation.Form1.resources
+C:\Users\메카트로닉스\Desktop\Winform\Operation\obj\Debug\Operation.Properties.Resources.resources
+C:\Users\메카트로닉스\Desktop\Winform\Operation\obj\Debug\Operation.csproj.GenerateResource.cache
+C:\Users\메카트로닉스\Desktop\Winform\Operation\obj\Debug\Operation.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\Desktop\Winform\Operation\obj\Debug\Operation.exe
+C:\Users\메카트로닉스\Desktop\Winform\Operation\obj\Debug\Operation.pdb
+C:\Users\메카트로닉스\Desktop\Winform\Operation\obj\Debug\Operation.exe.config
