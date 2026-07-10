@@ -1,0 +1,11 @@
+C:\Users\메카트로닉스\Desktop\Winform\Arrey\bin\Debug\Arrey.exe.config
+C:\Users\메카트로닉스\Desktop\Winform\Arrey\bin\Debug\Arrey.exe
+C:\Users\메카트로닉스\Desktop\Winform\Arrey\bin\Debug\Arrey.pdb
+C:\Users\메카트로닉스\Desktop\Winform\Arrey\obj\Debug\Arrey.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\Desktop\Winform\Arrey\obj\Debug\Arrey.Form1.resources
+C:\Users\메카트로닉스\Desktop\Winform\Arrey\obj\Debug\Arrey.Properties.Resources.resources
+C:\Users\메카트로닉스\Desktop\Winform\Arrey\obj\Debug\Arrey.csproj.GenerateResource.cache
+C:\Users\메카트로닉스\Desktop\Winform\Arrey\obj\Debug\Arrey.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\Desktop\Winform\Arrey\obj\Debug\Arrey.exe
+C:\Users\메카트로닉스\Desktop\Winform\Arrey\obj\Debug\Arrey.pdb
+C:\Users\메카트로닉스\Desktop\Winform\Arrey\obj\Debug\Arrey.exe.config

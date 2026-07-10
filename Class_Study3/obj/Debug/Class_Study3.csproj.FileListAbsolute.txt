@@ -1,0 +1,11 @@
+C:\Users\메카트로닉스\Desktop\Winform\Class_Study3\bin\Debug\Class_Study3.exe.config
+C:\Users\메카트로닉스\Desktop\Winform\Class_Study3\bin\Debug\Class_Study3.exe
+C:\Users\메카트로닉스\Desktop\Winform\Class_Study3\bin\Debug\Class_Study3.pdb
+C:\Users\메카트로닉스\Desktop\Winform\Class_Study3\obj\Debug\Class_Study3.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\Desktop\Winform\Class_Study3\obj\Debug\Class_Study3.Form1.resources
+C:\Users\메카트로닉스\Desktop\Winform\Class_Study3\obj\Debug\Class_Study3.Properties.Resources.resources
+C:\Users\메카트로닉스\Desktop\Winform\Class_Study3\obj\Debug\Class_Study3.csproj.GenerateResource.cache
+C:\Users\메카트로닉스\Desktop\Winform\Class_Study3\obj\Debug\Class_Study3.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\Desktop\Winform\Class_Study3\obj\Debug\Class_Study3.exe
+C:\Users\메카트로닉스\Desktop\Winform\Class_Study3\obj\Debug\Class_Study3.pdb
+C:\Users\메카트로닉스\Desktop\Winform\Class_Study3\obj\Debug\Class_Study3.exe.config

@@ -1,0 +1,11 @@
+C:\Users\메카트로닉스\Desktop\Winform\Class_study\bin\Debug\Class_study.exe.config
+C:\Users\메카트로닉스\Desktop\Winform\Class_study\bin\Debug\Class_study.exe
+C:\Users\메카트로닉스\Desktop\Winform\Class_study\bin\Debug\Class_study.pdb
+C:\Users\메카트로닉스\Desktop\Winform\Class_study\obj\Debug\Class_study.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\Desktop\Winform\Class_study\obj\Debug\Class_study.Form1.resources
+C:\Users\메카트로닉스\Desktop\Winform\Class_study\obj\Debug\Class_study.Properties.Resources.resources
+C:\Users\메카트로닉스\Desktop\Winform\Class_study\obj\Debug\Class_study.csproj.GenerateResource.cache
+C:\Users\메카트로닉스\Desktop\Winform\Class_study\obj\Debug\Class_study.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\Desktop\Winform\Class_study\obj\Debug\Class_study.exe
+C:\Users\메카트로닉스\Desktop\Winform\Class_study\obj\Debug\Class_study.pdb
+C:\Users\메카트로닉스\Desktop\Winform\Class_study\obj\Debug\Class_study.exe.config

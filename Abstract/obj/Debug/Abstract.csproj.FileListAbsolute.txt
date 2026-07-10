@@ -1,0 +1,11 @@
+C:\Users\메카트로닉스\Desktop\Winform\Abstract\bin\Debug\Abstract.exe.config
+C:\Users\메카트로닉스\Desktop\Winform\Abstract\bin\Debug\Abstract.exe
+C:\Users\메카트로닉스\Desktop\Winform\Abstract\bin\Debug\Abstract.pdb
+C:\Users\메카트로닉스\Desktop\Winform\Abstract\obj\Debug\Abstract.csproj.AssemblyReference.cache
+C:\Users\메카트로닉스\Desktop\Winform\Abstract\obj\Debug\Abstract.Form1.resources
+C:\Users\메카트로닉스\Desktop\Winform\Abstract\obj\Debug\Abstract.Properties.Resources.resources
+C:\Users\메카트로닉스\Desktop\Winform\Abstract\obj\Debug\Abstract.csproj.GenerateResource.cache
+C:\Users\메카트로닉스\Desktop\Winform\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\메카트로닉스\Desktop\Winform\Abstract\obj\Debug\Abstract.exe
+C:\Users\메카트로닉스\Desktop\Winform\Abstract\obj\Debug\Abstract.pdb
+C:\Users\메카트로닉스\Desktop\Winform\Abstract\obj\Debug\Abstract.exe.config
